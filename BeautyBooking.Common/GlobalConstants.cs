@@ -8,7 +8,7 @@
 
         public const string SalonManagerRoleName = "Manager";
 
-        public const string CloudName = "touch-web5";
+        public const string CloudName = "de0vsqvl3";
 
         public static class AccountsSeeding
         {
